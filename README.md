@@ -36,7 +36,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br/>CSS3
     </td>
     <td align="center">
-      <img src="assets/sql-server.png" width="50" alt="SQL Server"/><br/>SQL Server
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br/>SQL Server
     </td>
     <td align="center">
       <img src="assets/sql.png" width="50" alt="SQL"/><br/>SQL
