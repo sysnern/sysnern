@@ -88,7 +88,7 @@
 <!-- ==========================
      Connect with Me
 ========================== -->
-## 📬 Connect with Me
+## 📬 Contact with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/yasinerensahin" target="_blank">
