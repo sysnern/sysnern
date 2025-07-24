@@ -39,7 +39,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br/>SQL Server
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/sql" width="50" alt="SQL"/><br/>SQL
+      <img src="[https://cdn.simpleicons.org/sql](https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/45699919-e4c0-479a-a32f-f22248da84f5/81_yeni_0x400.png?t=1736248529857)" width="50" alt="SQL"/><br/>SQL
     </td>
   </tr>
   <tr>
