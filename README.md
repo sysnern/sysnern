@@ -74,11 +74,11 @@
 ## 📬 İletişim
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/yasinerensahin" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/sysnern" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="30"/>
   </a>
 </p>
