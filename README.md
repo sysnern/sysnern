@@ -77,7 +77,7 @@
 
 <p align="center">
   <!-- Add a futuristic data-style image named `futuristic-data.png` in your repo’s `assets/` folder -->
-  <img src="assets/futuristic-data.png" alt="NorthwindApp" width="600" />
+  <img src="assets/futuristic-data.png" alt="NorthwindApp" width="150" />
   <br/>
   <strong><a href="https://github.com/sysnern/NorthwindApp">NorthwindApp</a></strong><br/>
   An example e‑commerce application built with .NET Web API &amp; React.
