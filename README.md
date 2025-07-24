@@ -1,3 +1,4 @@
+```markdown
 <!-- ==========================
      Profile Header
 ========================== -->
@@ -39,15 +40,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br/>SQL Server
     </td>
     <td align="center">
-      <img src="[https://cdn.simpleicons.org/sql](https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/45699919-e4c0-479a-a32f-f22248da84f5/81_yeni_0x400.png?t=1736248529857)" width="50" alt="SQL"/><br/>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/><br/>SQL
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" width="50" alt="ASP.NET"/><br/>ASP.NET
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" width="50" alt="ASP.NET"/><br/>ASP.NET
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/entityframework" width="50" alt="EF Core"/><br/>EF Core
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" alt="EF Core"/><br/>EF Core
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br/>VS Code
@@ -66,9 +67,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sysnern&show_icons=true&theme=dark&hide_border=true" alt="sysnern’s GitHub Stats" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysnern&theme=dark&hide_border=true" alt="sysnern’s GitHub Streak" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnern&layout=compact&theme=dark&hide_border=true" alt="sysnern’s Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sysnern&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysnern&theme=dark&hide_border=true" alt="GitHub Streak" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnern&layout=compact&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
@@ -95,10 +96,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yasinerensahin" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
   <a href="https://instagram.com/sysnern" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
   </a>
 </p>
+```
