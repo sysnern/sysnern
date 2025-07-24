@@ -1,10 +1,9 @@
-```markdown
 <!-- ==========================
      Profile Header
 ========================== -->
 <h1 align="center">Hi, I’m <strong>sysnern</strong> 👋</h1>
 <p align="center">
-  4th-year Software Engineering student passionate about web &amp; data, learning something new every day.
+  4th‑year Software Engineering student passionate about web &amp; data, learning something new every day.
 </p>
 
 ---
@@ -45,10 +44,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" width="50" alt="ASP.NET"/><br/>ASP.NET
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" alt="EF Core"/><br/>EF Core
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET Core"/><br/>.NET Core
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br/>VS Code
@@ -80,7 +76,7 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <!-- Add a futuristic data-style image named `futuristic-data.png` in an `assets/` folder -->
+  <!-- Add a futuristic data-style image named `futuristic-data.png` in your repo’s `assets/` folder -->
   <img src="assets/futuristic-data.png" alt="NorthwindApp" width="600" />
   <br/>
   <strong><a href="https://github.com/sysnern/NorthwindApp">NorthwindApp</a></strong><br/>
@@ -96,11 +92,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yasinerensahin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/sysnern" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="30"/>
   </a>
 </p>
-```
