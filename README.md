@@ -1,7 +1,7 @@
 <!-- ==========================
      Profile Header
 ========================== -->
-<h1 align="center">Hi, I’m <strong>sysnern</strong> 👋</h1>
+<h1 align="center">Hi, I’m <strong>Eren</strong> 👋</h1>
 <p align="center">
   4th‑year Software Engineering student passionate about web &amp; data, learning something new every day.
 </p>
